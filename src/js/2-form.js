@@ -59,7 +59,7 @@ button.style.border = 'none';
 button.style.borderRadius = '4px';
 button.style.cursor = 'pointer';
 button.style.width = '95px';
-button.style.transition = 'background-color 0.3s ease';
+button.style.transition = 'background-color 0.4s ease';
 button.addEventListener('mouseover', () => {
   button.style.backgroundColor = '#6c8cff';
 });
